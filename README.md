@@ -16,7 +16,7 @@ swiggy-capstone/
 ├── 02_aggregation_joins.sql
 ├── 03_reporting.sql
 ├── monthly_cuisine_revenue.csv
-├── Swiggy_Cuisine_Performance.xlsx
+├── Swiggy_Cuisine_Analysis.xlsx
 ├── DATA_STORY.md
 ├── ai_log.md
 └── README.md
