@@ -90,7 +90,7 @@ The resulting database is stored in `swiggy_capstone.db`.
 
 The spreadsheet workbook is:
 
-**`Swiggy_Cuisine_Performance.xlsx`**
+**`Swiggy_Cuisine_Analysis.xlsx`**
 
 It contains:
 
